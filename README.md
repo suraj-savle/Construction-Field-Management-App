@@ -23,5 +23,5 @@ A responsive React.js web application built for field managers to track project 
 
 1. **Clone the repository**
    ```bash
-   git clone <YOUR_GITHUB_REPO_LINK>
+   git clone https://github.com/suraj-savle/Construction-Field-Management-App
    cd construction-app
